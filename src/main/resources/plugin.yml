@@ -1,0 +1,8 @@
+name: Kylix
+version: '${project.version}'
+main: me.candiesjar.kylix.Kylix
+api-version: 1.18
+load: STARTUP
+authors: [ CandiesJar ]
+description: Manage the join of your players.
+website: github.com/sasi2006166
